@@ -40,7 +40,7 @@ Dashboard analyzing sales performance across regions, products, and time.
 - Revenue and profit trends  
 - Seasonal sales patterns  
 
-🔗 [View Project](./sales-dashboard)
+🔗 [View Project](./Sales - SuperMarket)
 
 ---
 
