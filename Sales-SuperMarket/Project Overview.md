@@ -84,19 +84,19 @@ The solution is designed with a **Dashboard (Executive Summary)** and **Report P
 ## 📸 Screenshots
 
 ### 🏠 Dashboard Overview
-![Dashboard](images/dashboard.png)
+![Dashboard](images/multistore-sales-dashboard.png)
 
 ### 📦 Product Analysis
-![Product](images/product.png)
+![Product](images/product-report.png)
 
 ### 📉 Discount Analysis
-![Discount](images/discount.png)
+![Discount](images/discount-analysis.png)
 
 ### 👥 Customer Analysis
-![Customer](images/customer.png)
+![Customer](images/customer-report.png)
 
 ### 🌍 Geography Analysis
-![Geography](images/geography.png)
+![Geography](images/geography-report.png)
 
 ---
 
