@@ -1,7 +1,7 @@
 # 📊 Sales Analysis Dashboard (Power BI)
 
 ![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow)
-![Data](https://img.shields.io/badge/Data-PythonScript-Excel-blue)
+![Data](https://img.shields.io/badge/Data-Excel-blue)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
 ![Level](https://img.shields.io/badge/Level-Intermediate-orange)
 
