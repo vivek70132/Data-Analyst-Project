@@ -270,7 +270,7 @@ Fact_Orders filtered dynamically
 - Product Demand Analysis
 - Inventory Insights
 
-![Inventory Dashboard](Images/Warehouse.png)
+![Inventory Dashboard](../Images/Warehouse.png)
 
 ---
 
@@ -278,7 +278,7 @@ Fact_Orders filtered dynamically
 - Supplier Performance
 - Country-wise Supplier Analysis
 
-![Supplier Dashboard](Images/Suppliers_Dashboard.png)
+![Supplier Dashboard](../Images/Suppliers_Dashboard.png)
 
 ---
 
@@ -287,49 +287,49 @@ Fact_Orders filtered dynamically
 - Shipping Cost Tracking
 - Delayed Shipment Monitoring
 
-![Logistics Dashboard](Images/Logistics.png)
+![Logistics Dashboard](../Images/Logistics.png)
 
 ---
 
 ### 🔍 Supplier Drillthrough Analysis
 Implemented Drillthrough functionality for detailed supplier investigation.
 
-![Supplier Drillthrough](Images/Supplier_Details_Drillthrough.png)
+![Supplier Drillthrough](../Images/Supplier_Details_Drillthrough.png)
 
 ---
 
 ### 💡 Custom Tooltip Demo
 Implemented report page tooltips for enhanced user interaction.
 
-![Tooltip Demo](Images/Tooltip_Demo.png)
+![Tooltip Demo](../Images/Tooltip_Demo.png)
 
 ---
 
 ### 🧩 Dynamic Title Demo
 Dynamic dashboard title updates based on slicer selections.
 
-![Dynamic Title](Images/Dynamic_Title.png)
+![Dynamic Title](../Images/Dynamic_Title.png)
 
 ---
 
 ### 🔗 Data Model
 Star Schema data model with optimized relationships.
 
-![Data Model](Images/Model_View.png)
+![Data Model](../Images/Model_View.png)
 
 ---
 
 ### 🔐 RLS Testing
 Dynamic Row Level Security implementation.
 
-![RLS Testing](Images/RLS_Testing.png)
+![RLS Testing](../Images/RLS_Testing.png)
 
 ---
 
 ### ⚙️ Power Query Transformations
 ETL and transformation layer using Power Query.
 
-![Power Query](Images/Power_Query.png)
+![Power Query](../Images/Power_Query.png)
 
 ---
 
