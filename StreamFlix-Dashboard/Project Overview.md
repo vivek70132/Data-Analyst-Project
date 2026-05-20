@@ -60,6 +60,6 @@ This project is based on **dashboard analysis and interpretation** using existin
 
 ## 👤 Author
 
-Your Name  
-[LinkedIn]  
-[GitHub]
+Vivek Kumar Singh 
+🔗 [LinkedIn](https://linkedin.com/in/vivek-kumar-singh-338ba91b9)
+💻 [GitHub](https://github.com/vivek70132)
