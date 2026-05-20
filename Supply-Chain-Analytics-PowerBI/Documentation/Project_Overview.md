@@ -261,7 +261,7 @@ Fact_Orders filtered dynamically
 - Shipment Trends
 - Region-wise Analysis
 
-![Executive Overview](Images/Executive_Overview.png)
+![Executive Overview](../Images/Executive_Overview.png)
 
 ---
 
